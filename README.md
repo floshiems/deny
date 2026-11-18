@@ -1,2 +1,2 @@
 # deny
-課題やりたくないです
+Outdated
